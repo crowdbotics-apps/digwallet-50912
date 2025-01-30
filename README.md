@@ -1,26 +1,4 @@
-# digwallet_50912
-
-Welcome to your new Crowdbotics app.
-
-## What is Crowdbotics?
-
-Crowdbotics is an easy way to build software applications of all kinds. You can build production, high-caliber software applications in minutes, rather than weeks or months, even if you're not a software developer.
-
-The reason this works is that most software applications and features we want to build are similar to applications that have been built before. We've crawled hundreds of thousands of public code repositories to teach the Crowdbotics engine how to create software.
-
-As a result, Crowdbotics can generate new applications automatically in a standardized way.
-
-### Useful Links
-
-[App Dashboard](https://app.crowdbotics.com/)
-·
-[Knowledgebase](https://knowledge.crowdbotics.com/)
-·
-[Developer Training](https://knowledge.crowdbotics.com/crowdbotics-developer-training)
-·
-[Forum](https://discuss.crowdbotics.com/)
-·
-[Tech Support](https://crowdbotics.slack.com/archives/CGSAV319V)
+# DigWallet
 
 ## Table of Contents
 
@@ -38,7 +16,7 @@ As a result, Crowdbotics can generate new applications automatically in a standa
 
 ## Project Description
 
-This react_native application was built with Crowdbotics www.crowdbotics.com
+A react_native application 
 
 ## Project Structure
 
@@ -153,9 +131,3 @@ yarn run web:build
 ```
 
 And then commit/push the output created at `backend/web_build` to the git repository.
-
-# License
-
-The use of code in this repository is governed by Crowdbotics [Terms and Conditions](https://www.crowdbotics.com/terms-of-service).
-
-Created with ❤️ by [Crowdbotics](https://www.crowdbotics.com/)
